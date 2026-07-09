@@ -90,19 +90,6 @@ My core stack is **Ruby on Rails**, **Go**, and **React**, with deep experience 
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sreerajsomarajan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreerajsomarajan&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sreerajsomarajan&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 ### What People Say
 
 > "Collaborative, customer-focused, with a rock-solid understanding of modern technologies. Couldn't recommend Sreeraj any higher — surely one of the best engineers I've met."
